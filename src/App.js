@@ -9,7 +9,7 @@ import {BrowserRouter, Routes, Route} from "react-router-dom";
 
 function App() {
 
-  const [mode, setMode] = useState('light'); //Whether dark mode is enable or not, whenever app runs for the first time it will run in dark
+  const [mode, setMode] = useState('light'); 
 
   const [alert, setAlert] = useState(null);
 
