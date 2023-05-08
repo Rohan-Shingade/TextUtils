@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rohan-Shingade/TextUtils.git/static/css/main.073c9b0a.css",
+    "main.js": "/Rohan-Shingade/TextUtils.git/static/js/main.871eaa3f.js",
+    "static/js/787.8fda8bad.chunk.js": "/Rohan-Shingade/TextUtils.git/static/js/787.8fda8bad.chunk.js",
+    "index.html": "/Rohan-Shingade/TextUtils.git/index.html",
+    "main.073c9b0a.css.map": "/Rohan-Shingade/TextUtils.git/static/css/main.073c9b0a.css.map",
+    "main.871eaa3f.js.map": "/Rohan-Shingade/TextUtils.git/static/js/main.871eaa3f.js.map",
+    "787.8fda8bad.chunk.js.map": "/Rohan-Shingade/TextUtils.git/static/js/787.8fda8bad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.871eaa3f.js"
+  ]
+}
